@@ -5,7 +5,7 @@
 </p>
 
 This is the implementation of DeepSTD in the following paper: \
-Chuanpan Zheng, Xiaoliang Fan, Chengwu Wen, Longbiao Chen, Cheng Wang, and Jonathan Li. "[DeepSTD: Mining Spatio-temporal Disturbances of Multiple Context Factors for Citywide Traffic Flow Prediction](https://ieeexplore.ieee.org/abstract/document/8793226)", published in *IEEE Transactions on Intelligent Transportation Systems* *(T-ITS)*.
+Chuanpan Zheng, Xiaoliang Fan, Chengwu Wen, Longbiao Chen, Cheng Wang, and Jonathan Li. "[DeepSTD: Mining Spatio-temporal Disturbances of Multiple Context Factors for Citywide Traffic Flow Prediction](https://ieeexplore.ieee.org/abstract/document/8793226)", published in *IEEE Transactions on Intelligent Transportation Systems* *(T-ITS)*, Vol. 21, Issue 9, pp. 3744-3755, 2019.
 
 ## Data
 
